@@ -98,4 +98,6 @@ This starter keeps the analysis path local and deterministic so you can develop 
 
 ## Agno Integration
 
-The scaffold includes a lightweight Agno-compatible agent constructor in [ai_data_analysis_agent/main.py](D:/myCodex/ai_data_analysis_agent/main.py). If `agno` is installed, you can import and extend `build_agent()` to add hosted LLMs, tools, or memory backends while keeping the deterministic CSV analysis pipeline as the execution layer.
+The scaffold includes a lightweight Agno-compatible agent constructor in `ai_data_analysis_agent/main.py`. If `agno` is installed, you can import and extend `build_agent()` to add hosted LLMs, tools, or memory backends while keeping the deterministic CSV analysis pipeline as the execution layer.
+
+

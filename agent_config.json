@@ -1,0 +1,32 @@
+{
+  "name": "AI Data Analysis Agent",
+  "slug": "ai-data-analysis-agent",
+  "description": "An AI-powered analytical agent capable of processing structured data, performing statistical analysis, and generating reports.",
+  "framework": "Agno",
+  "difficulty": "Med",
+  "skills": [
+    "data-analysis",
+    "visualization"
+  ],
+  "example_use_cases": [
+    "Analyze this sales dataset and highlight trends.",
+    "Find anomalies in this financial data."
+  ],
+  "capabilities": [
+    "Clean datasets",
+    "Compute statistics",
+    "Identify trends",
+    "Generate charts",
+    "Produce structured analytical reports"
+  ],
+  "api_keys": [
+    "MEM0_API_KEY",
+    "OPENROUTER_API_KEY"
+  ],
+  "protocols": {
+    "a2a": true,
+    "ap2": true,
+    "x402": true
+  },
+  "status": "not_started"
+}
